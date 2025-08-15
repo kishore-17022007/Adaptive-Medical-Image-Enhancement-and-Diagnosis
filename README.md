@@ -66,9 +66,6 @@ One core application of the system is in **thoracic imaging**:
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
 ---
 
 ## 🤝 Contributions
