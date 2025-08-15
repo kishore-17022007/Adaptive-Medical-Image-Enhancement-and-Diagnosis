@@ -3,46 +3,6 @@
 **Using Machine Learning, Deep Learning, and Reinforcement Learning**
 
 ---
-## 🧠 Methodology
-
-The system follows a step-by-step :
-
-1. **Input Image**  
-   → Acquired from medical imaging sources (X-ray, MRI, CT, Ultrasound, etc.)
-
-2. **ML Preprocessing & Feature Extraction**  
-   → Machine Learning techniques are applied for noise reduction, contrast adjustment, and extracting important features.
-
-3. **DL Segmentation & Initial Diagnosis**  
-   → Deep Learning models segment regions of interest (e.g., lungs) and perform an initial classification.
-
-4. **RL Agent Enhances Image**  
-   → A Reinforcement Learning agent dynamically adjusts enhancement parameters (contrast, brightness, filters) for optimal diagnostic clarity.
-
-5. **DL Final Diagnosis on Enhanced Image**  
-   → Deep Learning models re-analyze the enhanced image for a more accurate diagnosis.
-
-6. **Results + Enhanced Images + Reports**  
-   → Final output includes the diagnosis, enhanced images, and structured reports for clinicians.
-diagram:
-Input Image  
-   │  
-   ▼  
-ML Preprocessing & Feature Extraction  
-   │  
-   ▼  
-DL Segmentation & Initial Diagnosis  
-   │  
-   ▲  
-RL Agent Enhances Image  
-   │  
-   ▼  
-DL Final Diagnosis on Enhanced Image  
-   │  
-   ▼  
-Results + Enhanced Images + Reports
-
----
 
 ## 📌 Overview
 This project focuses on developing an **intelligent adaptive medical image enhancement and diagnostic system** that leverages:
@@ -64,8 +24,31 @@ It integrates automated **disease detection** pipelines for conditions like **Pn
 ✅ **Automated Disease Detection** – CNN-based models for fast & accurate diagnosis  
 ✅ **Explainable AI** – Heatmaps and attention maps highlight suspicious regions  
 ✅ **Scalable Architecture** – Easily integratable into PACS/Hospital systems  
+---
+## 🧠 Methodology
+
+The system follows a step-by-step :
+
+1. **Input Image**  
+   → Acquired from medical imaging sources (X-ray, MRI, CT, Ultrasound, etc.)
+
+2. **ML Preprocessing & Feature Extraction**  
+   → Machine Learning techniques are applied for noise reduction, contrast adjustment, and extracting important features.
+
+3. **DL Segmentation & Initial Diagnosis**  
+   → Deep Learning models segment regions of interest (e.g., lungs) and perform an initial classification.
+
+4. **RL Agent Enhances Image**  
+   → A Reinforcement Learning agent dynamically adjusts enhancement parameters (contrast, brightness, filters) for optimal diagnostic clarity.
+
+5. **DL Final Diagnosis on Enhanced Image**  
+   → Deep Learning models re-analyze the enhanced image for a more accurate diagnosis.
+
+6. **Results + Enhanced Images + Reports**  
+   → Final output includes the diagnosis, enhanced images, and structured reports for clinicians.
 
 ---
+
 
 ## 🩺 Example Application – Pneumonia & COVID-19 Detection from Lung X-rays
 
