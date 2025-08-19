@@ -17,7 +17,6 @@ The system dynamically adjusts enhancement parameters based on image characteris
 It integrates automated **disease detection** pipelines for conditions like **Pneumonia** and **COVID-19**, using state-of-the-art AI models.
 
 ---
-
 ## 🚀 Key Features
 ✅ **Adaptive Image Enhancement** – RL-driven selection of optimal preprocessing filters & contrast levels  
 ✅ **Multi-Modal Support** – Works with X-ray, MRI, CT, and ultrasound images  
