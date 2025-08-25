@@ -77,7 +77,6 @@ The system follows a step-by-step :
 - **Deep Learning** → TensorFlow / PyTorch (ResNet, DenseNet, U-Net)  
 - **Reinforcement Learning** → Stable-Baselines3 (DQN, PPO)  
 - **Image Processing** → OpenCV, scikit-image  
-- **Web Deployment** → Flask (optional)  
 - **Visualization** → Matplotlib, Plotly  
 
 ---
