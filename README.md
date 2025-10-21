@@ -1,4 +1,4 @@
-# 🩺 Adaptive Medical Image Enhancement and Diagnosis
+# 🩺  Medical Image Analysis and Diagnosis
 
 **Using Machine Learning, Deep Learning, and Reinforcement Learning**
 
