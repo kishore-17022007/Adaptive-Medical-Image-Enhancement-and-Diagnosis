@@ -49,23 +49,11 @@ The system follows a step-by-step :
 ---
 
 
-## 🩺 Example Application – Pneumonia & COVID-19 Detection from Lung X-rays
-
-### 🔍 Process:
-- **Enhance Lung X-ray Clarity** → Improves contrast & reduces noise  
-- **Highlight Disease Regions** → Marks pneumonia opacities / COVID-19 patterns  
-- **Boost Diagnostic Accuracy** → CNN models trained on enhanced images  
-- **Assist Radiologists** → Reduces interpretation time & improves confidence  
+ 
 
 ---
 
 ## 📊 Results
-
-### Confusion Matrix
-![Confusion Matrix](confusion%20matrix.png)
-
-### Training & Validation Metrics
-![Training Metrics](Figure_1.png)
 
 ### Sample X-ray Images
 ![Sample X-ray Images](Screenshot%202025-08-15%20171945.png)
