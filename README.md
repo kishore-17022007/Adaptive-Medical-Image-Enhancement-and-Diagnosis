@@ -18,11 +18,11 @@ It integrates automated **disease detection** pipelines for conditions like **Pn
 
 ---
 ## 🚀 Key Features
-✅ **Adaptive Image Enhancement** – RL-driven selection of optimal preprocessing filters & contrast levels  
-✅ **Multi-Modal Support** – Works with X-ray, MRI, CT, and ultrasound images  
-✅ **Automated Disease Detection** – CNN-based models for fast & accurate diagnosis  
-✅ **Explainable AI** – Heatmaps and attention maps highlight suspicious regions  
-✅ **Scalable Architecture** – Easily integratable into PACS/Hospital systems  
+-Adaptive Image Enhancement** – RL-driven selection of optimal preprocessing filters & contrast levels  
+-Multi-Modal Support** – Works with X-ray, MRI, CT, and ultrasound images  
+-Automated Disease Detection** – CNN-based models for fast & accurate diagnosis  
+-Explainable AI** – Heatmaps and attention maps highlight suspicious regions  
+-Scalable Architecture** – Easily integratable into PACS/Hospital systems  
 ---
 ## 🧠 Methodology
 
