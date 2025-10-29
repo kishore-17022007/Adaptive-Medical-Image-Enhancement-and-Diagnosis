@@ -106,9 +106,3 @@ The system follows a step-by-step :
 Contributions are welcome!
 For major changes, please open an issue first to discuss your ideas.
 
----
-
-## 📧 Contact
-
-**KISHORE S**
-📩 Email: [kishore37386669@gmail.com](mailto:kishore37386669@gmail.com)
